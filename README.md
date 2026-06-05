@@ -1,6 +1,6 @@
 # Mi Proyecto Final: Caso de Estudio de Cyclistic (Google Data Analytics)
 
-¡Hola! Soy Jordi. Este es el proyecto final que he hecho para sacar el Certificado de Análisis de Datos de Google. He investigado cómo usa la gente las bicicletas compartidas en Chicago (de la empresa Cyclistic) para ver en qué se diferencian los usuarios que pagan la suscripción anual de los que solo pillan la bici de vez en cuando. 
+¡Hola! Soy Jorge. Este es el proyecto final que he hecho para sacar el Certificado de Análisis de Datos de Google. He investigado cómo usa la gente las bicicletas compartidas en Chicago (de la empresa Cyclistic) para ver en qué se diferencian los usuarios que pagan la suscripción anual de los que solo pillan la bici de vez en cuando. 
 
 Para hacerlo, he usado **Python** para limpiar y juntar un montón de datos gigantescos y **Tableau** para hacer los gráficos interactivos.
 
