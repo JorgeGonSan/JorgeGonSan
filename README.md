@@ -5,6 +5,8 @@
 Para hacerlo, he usado **Python** para limpiar y juntar un montón de datos gigantescos y **Tableau** para hacer los gráficos interactivos.
 
 ## 🚀 Enlaces para ver el proyecto
+
+**[ver proyecto](https://github.com/JorgeGonSan/JorgeGonSan/blob/main/cyclistic_by_JorgeGongora.ipynb)**
 * 📊 **[Ver mis gráficos interactivos en Tableau Public](https://public.tableau.com/app/profile/jorge.g.ngora7105/viz/CyclisticbyJGS/DuracinMediadeviajesporDayTipodeUsuario)**
 
 ## 📊 Lo que he descubierto analizando los datos
